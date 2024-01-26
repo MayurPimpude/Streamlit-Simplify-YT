@@ -19,11 +19,8 @@ load_dotenv()
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-# file_path = 'file.csv'
-# os.getenv("GOOGLE_API_KEY")
-# genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
-api_key="AIzaSyAfItvxFBe_CzrjqOokhzkBEoHMpNyvOb8"
-genai.configure(api_key="AIzaSyAfItvxFBe_CzrjqOokhzkBEoHMpNyvOb8")
+#api_key=""
+#genai.configure(api_key=api_key)
 # def get_pdf_text(pdf_docs):
 #     text=""
 #     for pdf in pdf_docs:
