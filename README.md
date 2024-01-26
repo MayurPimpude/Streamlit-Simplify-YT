@@ -56,3 +56,15 @@ Our motivation stems from the belief that AI technology can democratize informat
    - Streamlit run app.py
    
 Note: Ensure the port names are proper and add an API key of Google Gemini
+
+# Working Images
+
+Step 1
+![image](https://github.com/MayurPimpude/Streamlit-Simplify-YT/assets/100997225/a580a30d-76f3-4173-b7fa-613d84cc9c14)
+
+Step 2: paste Youtube Link
+![image](https://github.com/MayurPimpude/Streamlit-Simplify-YT/assets/100997225/02c79923-30ab-4a85-b211-8f652acb40e9)
+
+Step 3: Chat with video content
+![image](https://github.com/MayurPimpude/Streamlit-Simplify-YT/assets/100997225/40374585-8dd3-4278-baa6-a3f5ff4c7eff)
+
