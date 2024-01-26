@@ -45,7 +45,7 @@ Our motivation stems from the belief that AI technology can democratize informat
 # Installation
 
 1. Clone the repository
-   git clone https://github.com/username/repo.git
+   git clone [https://github.com/username/repo.git](https://github.com/MayurPimpude/Streamlit-Simplify-YT/)
 2. For Back end
    Create a virtual environment in Python
    - cd backend
