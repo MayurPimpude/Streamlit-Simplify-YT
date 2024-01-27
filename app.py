@@ -19,7 +19,7 @@ load_dotenv()
 os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 GOOGLE_API_KEY=os.getenv("GOOGLE_API_KEY")
-print(GOOGLE_API_KEY)
+#print(GOOGLE_API_KEY)
 #api_key=""
 #genai.configure(api_key=api_key)
 # def get_pdf_text(pdf_docs):
@@ -121,7 +121,7 @@ def main():
                 text_chunks = get_text_chunks(raw_text)
                 get_vector_store(text_chunks)
                 st.success("Done")
-                print(raw_text)
+                #print(raw_text)
 
 
 
